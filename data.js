@@ -1,28 +1,28 @@
 module.exports = [
   {
     id: 1,
-    isim: "Kemal Sunal",
-    filmler: ["Sakar Şakir", "Üç Kağıtçı", "Tosun Paşa", "Mavi Boncuk"],
+    name: "Kemal Sunal",
+    movies: ["Sakar Şakir", "Üç Kağıtçı", "Tosun Paşa", "Mavi Boncuk"],
   },
   {
     id: 2,
-    isim: "Şener Şen",
-    filmler: ["Kibar Feyzo", "Davaro", "Tosun Paşa"],
+    name: "Şener Şen",
+    movies: ["Kibar Feyzo", "Davaro", "Tosun Paşa"],
   },
   {
     id: 3,
-    isim: "Adile Naşit",
-    filmler: ["Davaro", "Hababam Sınıfı", "Neşeli Günler"],
+    name: "Adile Naşit",
+    movies: ["Davaro", "Hababam Sınıfı", "Neşeli Günler"],
   },
   {
     id: 4,
-    isim: "Sadri Alışık",
-    filmler: ["Turist Ömer", "Şaka ile Karışık", "Ah Müjgan Ah"],
+    name: "Sadri Alışık",
+    movies: ["Turist Ömer", "Şaka ile Karışık", "Ah Müjgan Ah"],
   },
   {
     id: 5,
-    isim: "Tarık Akan",
-    filmler: [
+    name: "Tarık Akan",
+    movies: [
       "Ah Nerede",
       "Hababam Sınıfı",
       "Neşeli Günler",
@@ -32,8 +32,8 @@ module.exports = [
   },
   {
     id: 6,
-    isim: "Münir Özkul",
-    filmler: [
+    name: "Münir Özkul",
+    movies: [
       "Gülen Gözler",
       "Hababam Sınıfı",
       "Neşeli Günler",
